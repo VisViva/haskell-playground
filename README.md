@@ -1,1 +1,1 @@
-haskell-playground
+Getting into Haskell! Yay!
